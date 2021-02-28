@@ -704,9 +704,9 @@ def down():
         print("\033[1;93m[✓]\033[1;93m Please Open Your Internal Storage and Rename The File")
         raw_input("\033[1;97mPress Enter To Return In Main Menu ")
         crack()  
-     elif dow =="no" or dow=="n":
+    elif dow =="no" or dow=="n":
         crack() 
-     else:
+    else:
         print("\033[1;91m[!] Please Select a Valid Option ")
         down()
 		
