@@ -228,7 +228,7 @@ def menu():
     os.system('clear')
     print logo
     print("\033[1;97m[✓]\033[1;93m Name : "+name)
-        print("\033[1;97m--------------------------------------------------")
+    print("\033[1;97m--------------------------------------------------")
     print("\033[1;97m[1]\033[1;91m-⋄-\033[1;97mClone Frienlist and Public ID")
     print("\033[1;97m[2]\033[1;91m-⋄-\033[1;97mRandom with choice password")
     
